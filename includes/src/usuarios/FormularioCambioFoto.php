@@ -47,4 +47,6 @@ class FormularioCambioFoto extends Formulario
         // No es necesario realizar ninguna acción en el lado del servidor
         // ya que el formulario se envía directamente a través de HTML y JavaScript
     }
+
+    //dfd
 }
